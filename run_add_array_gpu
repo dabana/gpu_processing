@@ -1,0 +1,2 @@
+DEL *.cu
+REN *gpu.cpp *gpu.cu
